@@ -1,9 +1,0 @@
-streamlit
-numpy
-pandas
-joblib
-librosa
-soundfile
-scikit-learn
-catboost
-requests
